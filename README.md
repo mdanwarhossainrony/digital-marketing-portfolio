@@ -46,3 +46,8 @@ Explore my projects and case studies:
 ## Contact
 
 Feel free to connect with me for digital marketing projects, SEO consulting, analytics implementation, and marketing automation.
+
+* **WhatsApp:** [Chat with me on WhatsApp](https://wa.me/8801879968808)
+* **Email:** [mdanwarhossainrony99@gmail.com](mailto:mdanwarhossainrony99@gmail.com)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/md-anwar-hossain-rony/)
+
