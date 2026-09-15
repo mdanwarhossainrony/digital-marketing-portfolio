@@ -38,10 +38,10 @@ Explore my projects and case studies:
 * Technical SEO & On-Page SEO
 * AI Search Optimization (GEO/AEO)
 * Backlink Building & Link Acquisition
-* Web Analytics & Conversion Tracking
+* Web Analytics, GA4 & Conversion Tracking
 * Google Ads Campaign Management
 * GoHighLevel CRM & Marketing Automation
-* Server-Side Tracking & Conversion APIs
+* Server-Side Tracking with Google Tag Manager (GTM)
 
 ## Contact
 
