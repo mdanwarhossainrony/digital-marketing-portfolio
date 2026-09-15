@@ -1,6 +1,7 @@
-# Digital Marketing Portfolio
+**AI-Powered Growth & Full-Stack Digital Marketing Specialist**
 
-Welcome to my digital marketing portfolio! I specialize in SEO, AI Search Optimization, Web Analytics, Conversion Tracking, Google Ads, and CRM Automation.
+I combine AI-powered marketing strategies, SEO, performance advertising, analytics, conversion tracking, and CRM automation to improve search visibility, generate qualified leads, and drive measurable business growth.
+
 
 ## Portfolio & Case Studies
 
