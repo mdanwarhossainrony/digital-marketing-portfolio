@@ -14,7 +14,7 @@ Explore my projects and case studies:
 | On-Page SEO Portfolio                      | [View Portfolio](https://drive.google.com/file/d/1jEXdL27n1XZ21yUx5Nhyd3etarw_CQZw/view)                               |
 | Backlink Building Portfolio                | [View Portfolio](https://drive.google.com/file/d/197RS2o01xUK_Jmn9ctcBrh_xJ43N25n9/view)                               |
 | GoHighLevel Portfolio                      | [View Portfolio](https://docs.google.com/spreadsheets/d/1Smba67fv7kVFhSTjGqPsz1uzbWGQy--QmhyaGiKfyyI/edit)             |
-| GoHighLevel Portfolio (PDF)                | [View Portfolio](https://drive.google.com/drive/u/0/folders/1StPTRXhEhWoGReorIwUBXmTyg8muzP54)                         |
+| GoHighLevel Portfolio (PDF)                | [View Portfolio](https://docs.google.com/spreadsheets/d/1Smba67fv7kVFhSTjGqPsz1uzbWGQy--QmhyaGiKfyyI/edit)                         |
 | Web Analytics Portfolio                    | [View Portfolio](https://docs.google.com/spreadsheets/d/1QIX8E1lONTIYCgmyIoqwES_E331VH_Ke-e5_csGERHc/edit)             |
 | Google Ads Portfolio                       | [View Portfolio](https://docs.google.com/spreadsheets/d/12JIF6YJrWfyCRfzMe5d7BjamoZgLWzs88ONuUMy4oz8/edit?usp=sharing) |
 
